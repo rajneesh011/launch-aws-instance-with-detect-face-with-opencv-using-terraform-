@@ -1,0 +1,1 @@
+# launch-aws-instance-with-detect-face-with-opencv-using-terraform-
